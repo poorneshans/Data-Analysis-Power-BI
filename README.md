@@ -12,4 +12,4 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 Survey results of 1,500 remote workers from the Australian state of New South Wales, taken in August-September 2020
 
 -----------------------------------------
-im not able to share powerbi dashboard to github,So i have captured screen record of dynamic dashbord  and dashboards in pdf format.
+I'm not able to share powerbi dashboard to github,So i have captured screen record of dynamic dashbord  and also uploded dashboards in pdf format.
